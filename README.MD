@@ -55,7 +55,7 @@ Frontend: Open http://localhost:5173 in your browser.
 Backend API: Access the FastAPI docs at http://localhost:8000/docs.
 
 ###  Project Structure  ###
-
+```bash 
 .
 ├── app/                # Backend (FastAPI)
 │   ├── routes/         # API routes
@@ -68,7 +68,7 @@ Backend API: Access the FastAPI docs at http://localhost:8000/docs.
 │   ├── public/         # Static assets
 │   └──  # TailwindCSS configuration
 └── .env                # Environment variables
-
+```bash 
 
 G:\PORTFOLIO\Client Manager\frontend\src\assets\printmenu.jpeg
 
