@@ -1,6 +1,6 @@
 # Restaurant Order Management System
 
-![Menu Screenshot](src/assets/printmenu.jpeg)
+!(https://github.com/Arynelson/Restaurant_manager/blob/main/frontend/src/assets/printmenu.jpeg)
 
 This is a **Restaurant Order Management System** designed to streamline the process of managing orders within a restaurant. The application is tailored for use by waiters, cashiers, managers, and kitchen staff. It provides an intuitive interface for handling menu items, customer orders, and real-time updates.
 
