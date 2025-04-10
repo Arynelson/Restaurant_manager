@@ -73,8 +73,6 @@ Backend API: Access the FastAPI docs at http://localhost:8000/docs.
 ```
 
 
-
-
 Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
